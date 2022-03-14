@@ -2,9 +2,9 @@
 
 Record some English words I meet in document.
 
-## contents
+## Contents
 
-from [`vueuse`](https://vueuse.org):
+From [`vueuse`](https://vueuse.org):
 
 * essentail
 * utilities
@@ -37,7 +37,7 @@ from [`vueuse`](https://vueuse.org):
   * for scenarios like muti-windows, testing mocks, and SSR.
 * internally - 在内部
   * when useing `watch` or `watchEffect` internally
-* intersection - 交际
+* intersection - 交集
   * should be an intersection between the return type and a PromiseLike, e.g. `xx & xx`
 * persistence - 持久性
   * data persistence.
@@ -64,7 +64,7 @@ from [`vueuse`](https://vueuse.org):
 * prevent
   * prevent devices from dimming 
 * interval
-  * `setInteral`
+  * `setInteval`
 * motion - 运动
 * respectively - 分别地
 * invitation
