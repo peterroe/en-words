@@ -4,7 +4,8 @@ Record some English words I meet in document.
 
 ## Contents
 
-From [`vueuse`](https://vueuse.org):
+<details>
+<summary>From [`vueuse`](https://vueuse.org):</summary><br/>
 
 * essentail
 * utilities
@@ -71,3 +72,62 @@ From [`vueuse`](https://vueuse.org):
   * you should get the invitation to join the org.
 * original
   * original repo.
+
+</details>
+
+<details>
+<summary>From: [why we chose telegram for team...](https://scribe.rip/@jimbk/why-we-chose-telegram-for-team-app-over-slack-and-microsoft-team-and-then-moved-away-from-it-2b87012d2095)</summary><br/>
+
+* insight - 深刻见解
+  * this article can serve as insights.
+* capable - 有能力的
+* primarily
+* sector - 行业/领域
+  * develop software for banking and finance sector.
+* various - 各种各样的
+* workforce
+* consists
+  * most of our workforce consists of software engineers.
+* sailing - 航行
+  * things were smooth sailing. - 事情一帆风顺
+* formula - 方案
+* remotely
+  * we had to move to work remotely.
+* proper -  合适的
+* since - 因为
+* overwhelming - 难以抗拒的
+* sustaninable - 可持续性的
+  * it was far from sustaninable.
+* prudent - 谨慎的
+* estimate
+  * not be prudent to estimate costs and on current size.
+* affirmative - 肯定的
+  * we failed to get any affirmative answers.
+* turn out - 结果证明
+* investment - 投资
+* relieved - 放心的
+  * we were excited and also relieved - 松了一口气
+* reliable - 可靠的
+  * not easy and reliable extension API.
+* anticipated - 预期的
+  * more easier than we initially anticipated.
+* compromised - 妥协的
+* remarkably - 不寻常地
+* replicate - 复制
+  * it offers nothing to extend or replicate the same thing.
+* restriction - 限制
+  * and restriction continues.
+* prominently - 显著地
+  * you must display Telegram's logo prominetly.
+* codebase - 代码库
+* needless
+* frustrated - 失望的
+  * we were frustrated.
+* running out of - 用完
+* distracting - 分心的
+  * without any distracting features.
+* restictive - 限制的
+* exorbitant - 离谱的
+  * no restictive license like Telegram and exorbitant pricing like Slack.
+
+</details>
