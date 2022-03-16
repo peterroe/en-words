@@ -160,6 +160,8 @@ Record some English words I meet in document.
 <details>
 <summary>From [How to cascade layers]</summary><br/>
 
+<https://ishadeed.com/article/cascade-layers/#the-problem>
+ 
 * specificity - 特殊性
 * thus
   * thus reducing the casecade issues.
