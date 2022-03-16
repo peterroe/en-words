@@ -137,8 +137,10 @@ Record some English words I meet in document.
 </details>
 
 <details>
-<summary>From [Grid for layout, Flexbox for components]</summary>
+<summary>From [Grid for layout, Flexbox for components]</summary><br/>
 
+<https://ishadeed.com/article/grid-layout-flexbox-components/>
+ 
 * graduate - 毕业生
 * intership - 实习期
   * he is currently finishing his intership.
