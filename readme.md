@@ -78,7 +78,7 @@ Record some English words I meet in document.
 </details>
 
 <details>
-<summary>From: [why we chose telegram for team...]</summary><br/>
+<summary>From [why we chose telegram for team...]</summary><br/>
 
  https://scribe.rip/@jimbk/why-we-chose-telegram-for-team-app-over-slack-and-microsoft-team-and-then-moved-away-from-it-2b87012d2095
  
