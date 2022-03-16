@@ -76,7 +76,7 @@ Record some English words I meet in document.
 </details>
 
 <details>
-<summary>From: [why we chose telegram for team...](https://scribe.rip/@jimbk/why-we-chose-telegram-for-team-app-over-slack-and-microsoft-team-and-then-moved-away-from-it-2b87012d2095)</summary><br/>
+<summary>From [why we chose telegram for team...](https://scribe.rip/@jimbk/why-we-chose-telegram-for-team-app-over-slack-and-microsoft-team-and-then-moved-away-from-it-2b87012d2095)</summary><br/>
 
 * insight - 深刻见解
   * this article can serve as insights.
@@ -129,5 +129,23 @@ Record some English words I meet in document.
 * restictive - 限制的
 * exorbitant - 离谱的
   * no restictive license like Telegram and exorbitant pricing like Slack.
+
+</details>
+
+<details>
+<summary>From [Grid for layout, Flexbox for components]</summary>
+
+* graduate - 毕业生
+* intership - 实习期
+  * he is currently finishing his intership.
+* fine-turn - 微调
+  * fine-turn it util it look like then design.
+* demension - 维
+  * muti-demension layout.
+* convention - 约定
+  * I dont't want to get into css naming convention for this article.
+* regardless 
+  * regardless of the card height. - 不管卡片的高度
+* hasitate - 犹豫
 
 </details>
