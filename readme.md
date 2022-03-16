@@ -5,8 +5,10 @@ Record some English words I meet in document.
 ## Contents
 
 <details>
-<summary>From [`vueuse`](https://vueuse.org):</summary><br/>
+<summary>From [vueuse] </summary><br/>
 
+<https://vueuse.org>
+ 
 * essentail
 * utilities
 * sealless
@@ -76,8 +78,14 @@ Record some English words I meet in document.
 </details>
 
 <details>
+<<<<<<< HEAD
 <summary>From [why we chose telegram for team...](https://scribe.rip/@jimbk/why-we-chose-telegram-for-team-app-over-slack-and-microsoft-team-and-then-moved-away-from-it-2b87012d2095)</summary><br/>
+=======
+<summary>From: [why we chose telegram for team...]</summary><br/>
+>>>>>>> c5d1067002ce67059fd8e6af855d666ce18d94c1
 
+ https://scribe.rip/@jimbk/why-we-chose-telegram-for-team-app-over-slack-and-microsoft-team-and-then-moved-away-from-it-2b87012d2095
+ 
 * insight - 深刻见解
   * this article can serve as insights.
 * capable - 有能力的
