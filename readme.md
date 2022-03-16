@@ -155,3 +155,26 @@ Record some English words I meet in document.
 * hasitate - 犹豫
 
 </details>
+
+
+<details>
+<summary>From [How to cascade layers]</summary><br/>
+
+* specificity - 特殊性
+* thus
+  * thus reducing the casecade issues.
+* guaranteed - 确定的
+  * providing a guaranteed way to write CSS.
+* illustrate
+  * let's take an example to illustrate the problem.
+* priority - 优先级
+* descending -  下降
+  * in descending order of priority. - 按优先级降序
+* regard - 关于
+  * regarding browser styles.
+* inspect - 检查
+* precedence
+  * take precedence - 优先
+* determine
+
+</details>
