@@ -176,5 +176,6 @@ Record some English words I meet in document.
 * precedence
   * take precedence - 优先
 * determine
+* conclusion - 结论
 
 </details>
