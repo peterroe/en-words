@@ -207,6 +207,8 @@ Record some English words I meet in document.
 <details>
 <summary>From [Vitest]</summary><br/>
 
+<https://vitest.dev/guide/>
+
 * out of the box - 开箱即用
 * fostering - v.培育
 * vibrant 
