@@ -58,6 +58,7 @@ Record some English words I meet in document.
 * desired
 * gamepad - 游戏手柄
 * compatibility
+* compatible
   * so check the compatibility table before using.
 * captions - 字幕
 * manual
@@ -181,3 +182,52 @@ Record some English words I meet in document.
 * conclusion - 结论
 
 </details>
+
+<details>
+<summary>From [React]</summary><br/>
+
+<https://reactjs.org/>
+
+* turotial - 教程
+  * a tutorial to learn React.
+* declarative - 声明式
+  * declarative programming.
+* component-based - 组件基础
+* effective - 有效的
+  * effective update your application.
+* encapsulate - 封装
+  * encapsulate components that manage their own state.
+* gradual - 逐步的
+* theoretical - 理论的
+* curve - 曲线
+  * React does have a learning curve.
+  
+</details>
+
+<details>
+<summary>From [Vitest]</summary><br/>
+
+* out of the box - 开箱即用
+* fostering - v.培育
+* vibrant 
+  * its plugins and integrations are fostering a vibrant ecosystem.
+* solely - adv.仅仅
+  * solely focus on providing the best DX during testing.
+* integration - 融合
+  * integration with other tools.
+* extensiable - 可扩展的
+  * extensiable to add more features.
+* massive - 大规模的
+* adoption - 采用
+  * Given Jest's massive adoption, it's becoming the most popular testing framework. - 考虑到
+* first exprience - 优先体验
+* required - 必须的
+* rationale - 基本原因
+  * you can learn more about the rationale behind this project.
+* identical - 完全相同的
+  * it is almost identical to the local setup.
+* unified - 统一的
+* isolates - v.独立
+  * vitest also isolates each file's environment.
+
+<details>
