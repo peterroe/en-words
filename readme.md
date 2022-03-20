@@ -232,4 +232,48 @@ Record some English words I meet in document.
 * isolates - v.独立
   * vitest also isolates each file's environment.
 
+</details>
+
 <details>
+<summary>From [NextJs]</summary><br/>
+
+* scalable - 可扩展的
+* robust - 健壮的
+  * Next makes use of robust HTTP Server frameworks like Express.
+* myriad - 无数的
+* third-party - 第三方的
+* underlying 
+  * underlying platform. - 底层平台
+* plenty
+  * plenty of
+* architecture - 架构
+  * Next provides an out-of-the-box application architecture.
+* scaffold - v.构建
+  * scaffold the project with the Nest CLI
+* dedicated - 专用的
+  * in its own dedicated directory.
+* exclusively - 独有地
+  * exclusively for Next.js. 
+* arbitrary - 随意的
+  * Note that the methods name we choose here is compelately arbitrary.
+* significance - 意义
+  * does's attach any significance to the method name chosen.
+* hyphen - 连字符（-）
+* interpreted - 解释
+* literally - 逐字地
+  * are interpreted literally bt string-based paths.
+* omitted - 省略的
+  * if omited
+* nested - 嵌套的
+  * nested routers. - 嵌套路由
+* extraction - 提取
+  * we love modern javascript and we know that data extraction is mostly asynchronous.
+* approaches - 方法
+* payloads - 有效载荷
+  * request payloads.
+* preserve - 保存
+  * they are preserved as real entities.
+* retrieval - 检索
+  * data storage and retrieval.
+
+</details>
