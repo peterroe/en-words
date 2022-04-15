@@ -181,3 +181,33 @@ Record some English words I meet in document.
 * conclusion - 结论
 
 </details>
+
+<details>
+<summary>From [Pinia]</summary><br/>
+
+<https://pinia.vuejs.org/introduction.html>
+
+* vulerability - 弱点
+  * vulerability to XSS.
+* track - 追踪
+  * track actions, mutations.
+* realistic - 实际的
+  * A more realistic example.
+* leverage -v.充分利用
+  * leverage TS type inference as much as possible.
+* implicit - 隐式的
+  * You can still nest stores implicitly by importing and using a store inside another.
+
+</details>
+
+<details>
+<summary>We have some beliefs on how you should be...</summary><br/>
+
+<https://blog.boot.dev/about/>
+
+* only to - 却发现
+* master - 掌握
+* hyped-up - 被炒作的
+* 
+
+</details>
