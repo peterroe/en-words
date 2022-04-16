@@ -208,6 +208,12 @@ Record some English words I meet in document.
 * only to - 却发现
 * master - 掌握
 * hyped-up - 被炒作的
-* 
+* evergreen - 经久不衰的
+  * we teach evergreen skills
+* plagued - 困扰
+* clickbait - 标题党
+  * is plagued with clickbait
+* stagnate - 停滞
+  * stagnate in the same state.
 
 </details>
