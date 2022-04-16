@@ -58,6 +58,7 @@ Record some English words I meet in document.
 * desired
 * gamepad - 游戏手柄
 * compatibility
+* compatible
   * so check the compatibility table before using.
 * captions - 字幕
 * manual
@@ -201,6 +202,57 @@ Record some English words I meet in document.
 </details>
 
 <details>
+<summary>From [React]</summary><br/>
+
+<https://reactjs.org/>
+
+* turotial - 教程
+  * a tutorial to learn React.
+* declarative - 声明式
+  * declarative programming.
+* component-based - 组件基础
+* effective - 有效的
+  * effective update your application.
+* encapsulate - 封装
+  * encapsulate components that manage their own state.
+* gradual - 逐步的
+* theoretical - 理论的
+* curve - 曲线
+  * React does have a learning curve.
+  
+</details>
+
+<details>
+<summary>From [Vitest]</summary><br/>
+
+<https://vitest.dev/guide/>
+
+* out of the box - 开箱即用
+* fostering - v.培育
+* vibrant 
+  * its plugins and integrations are fostering a vibrant ecosystem.
+* solely - adv.仅仅
+  * solely focus on providing the best DX during testing.
+* integration - 融合
+  * integration with other tools.
+* extensiable - 可扩展的
+  * extensiable to add more features.
+* massive - 大规模的
+* adoption - 采用
+  * Given Jest's massive adoption, it's becoming the most popular testing framework. - 考虑到
+* first exprience - 优先体验
+* required - 必须的
+* rationale - 基本原因
+  * you can learn more about the rationale behind this project.
+* identical - 完全相同的
+  * it is almost identical to the local setup.
+* unified - 统一的
+* isolates - v.独立
+  * vitest also isolates each file's environment.
+
+</details>
+
+<details>
 <summary>We have some beliefs on how you should be...</summary><br/>
 
 <https://blog.boot.dev/about/>
@@ -215,5 +267,51 @@ Record some English words I meet in document.
   * is plagued with clickbait
 * stagnate - 停滞
   * stagnate in the same state.
+
+</details>
+
+<details>
+<summary>From [NextJs]</summary><br/>
+
+<https://nextjs.org/>
+
+* scalable - 可扩展的
+* robust - 健壮的
+  * Next makes use of robust HTTP Server frameworks like Express.
+* myriad - 无数的
+* third-party - 第三方的
+* underlying 
+  * underlying platform. - 底层平台
+* plenty
+  * plenty of
+* architecture - 架构
+  * Next provides an out-of-the-box application architecture.
+* scaffold - v.构建
+  * scaffold the project with the Nest CLI
+* dedicated - 专用的
+  * in its own dedicated directory.
+* exclusively - 独有地
+  * exclusively for Next.js. 
+* arbitrary - 随意的
+  * Note that the methods name we choose here is compelately arbitrary.
+* significance - 意义
+  * does's attach any significance to the method name chosen.
+* hyphen - 连字符（-）
+* interpreted - 解释
+* literally - 逐字地
+  * are interpreted literally bt string-based paths.
+* omitted - 省略的
+  * if omited
+* nested - 嵌套的
+  * nested routers. - 嵌套路由
+* extraction - 提取
+  * we love modern javascript and we know that data extraction is mostly asynchronous.
+* approaches - 方法
+* payloads - 有效载荷
+  * request payloads.
+* preserve - 保存
+  * they are preserved as real entities.
+* retrieval - 检索
+  * data storage and retrieval.
 
 </details>
